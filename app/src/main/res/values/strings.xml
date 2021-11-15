@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="source">Source</string>
+    <string name="mtime">Mtime</string>
+    <string name="detail">Detail</string>
+    <string name="name">Name</string>
+</resources>
